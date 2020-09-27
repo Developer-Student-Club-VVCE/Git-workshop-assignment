@@ -4,6 +4,7 @@
 - Pushkar Anand
 
 ## Participants
+- Chandana V Kumar
 - Suraj G
 - Parjanya HK
 - Dheeraj Pramod Naik
