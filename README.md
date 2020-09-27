@@ -17,5 +17,6 @@
 - Zabiulla Sheriff
 - Suloni Praveen
 - Poorna Chandra D
+- Pooja S Patil
 - Madhuri BH
 - Deepakshi I
