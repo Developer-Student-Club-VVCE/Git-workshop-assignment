@@ -4,6 +4,7 @@
 - Pushkar Anand
 
 ## Participants
+- Raju m
 - Chandana V Kumar
 - Suraj G
 - Parjanya HK
@@ -11,3 +12,4 @@
 - Akul G
 - Keerthana B
 - Zabiulla Sheriff
+- Suloni Praveen
