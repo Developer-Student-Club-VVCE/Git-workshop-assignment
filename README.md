@@ -17,7 +17,6 @@
 - Zabiulla Sheriff
 - Suloni Praveen
 - Poorna Chandra D
-- Kumuda D k
-- Pooja S Patil
 - Madhuri BH
 - Deepakshi I
+- Dipali Singh
