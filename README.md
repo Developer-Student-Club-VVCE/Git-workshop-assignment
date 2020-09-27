@@ -18,8 +18,8 @@
 - Zabiulla Sheriff
 - Suloni Praveen
 - Poorna Chandra D
+- Vignesh V
 - Soundarya Shivram
 - Madhuri BH
 - Deepakshi I
 - Dipali Singh
-
