@@ -26,3 +26,4 @@
 - Dipali Singh
 - Pooja S Patil
 - Karthik Udupa G V
+- Lochana K S
